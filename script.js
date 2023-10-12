@@ -6,7 +6,6 @@ const priceFreqContainer = document.querySelector('span.pricing-card__billing-fr
 const frequencyToggle = document.querySelector('input#billing-freq')
 const form = document.querySelector('form.pricing-card')
 
-console.log({rangeInput, viewsContainer, costContainer, priceFreqContainer, frequencyToggle, form})
 
 // Data & Global Variables
 const VIEWS_DATA = [
